@@ -129,8 +129,9 @@
     .section1 .background {
 	background: initial;
         background-image: url(../img/background.jpg);
-	     background-size: 50%;
+	     background-size: 80%;
 	    background-repeat: no-repeat;
+		    background-position: center;
     }
     
     .section1 > .container-fluid > .row > .col{
@@ -151,8 +152,9 @@
 	    .section1 .background {
 	background: initial;
         background-image: url(../img/background.jpg);
-		    background-size: 50%;
+		    background-size: 80%;
 		    background-repeat: no-repeat;
+		    background-position: center;
     }
 
 }
@@ -166,8 +168,9 @@
 	    .section1 .background {
 	background: initial;
         background-image: url(../img/background.jpg);
-		     background-size: 50%;
+		     background-size: 80%;
 		    background-repeat: no-repeat;
+		    background-position: center;
 }
 
 
