@@ -126,7 +126,7 @@
     }
 
     .section1 .background {
-        background: initial;
+        background-color: black;
 	}
     
     .section1 > .container-fluid > .row > .col{
