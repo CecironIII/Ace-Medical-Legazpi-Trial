@@ -129,6 +129,7 @@
     .section1 .background {
 	background: initial;
         background-image: url(../img/background.jpg);
+	     background-size: 50%;
     }
     
     .section1 > .container-fluid > .row > .col{
@@ -149,6 +150,7 @@
 	    .section1 .background {
 	background: initial;
         background-image: url(../img/background.jpg);
+		    background-size: 50%;
     }
 
 }
@@ -162,6 +164,7 @@
 	    .section1 .background {
 	background: initial;
         background-image: url(../img/background.jpg);
+		     background-size: 50%;
 }
 
 
