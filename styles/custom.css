@@ -129,16 +129,6 @@
     .section1 .background {
 	background: initial;
         background-image: url(../img/background.jpg);
-    background-size: cover;
-    background-position: center center;
-    background-repeat: no-repeat;
-    height: 100vh;
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: left;
-    padding-left: 65px;
     }
     
     .section1 > .container-fluid > .row > .col{
@@ -159,16 +149,6 @@
 	    .section1 .background {
 	background: initial;
         background-image: url(../img/background.jpg);
-    background-size: cover;
-    background-position: center center;
-    background-repeat: no-repeat;
-    height: 100vh;
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: left;
-    padding-left: 65px;
     }
 
 }
@@ -182,17 +162,6 @@
 	    .section1 .background {
 	background: initial;
         background-image: url(../img/background.jpg);
-    background-size: cover;
-    background-position: center center;
-    background-repeat: no-repeat;
-    height: 100vh;
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: left;
-    padding-left: 65px;
-    }
 }
 
 
