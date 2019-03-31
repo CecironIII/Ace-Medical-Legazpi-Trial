@@ -130,6 +130,7 @@
 	background: initial;
         background-image: url(../img/background.jpg);
 	     background-size: 50%;
+	    background-repeat: no-repeat;
     }
     
     .section1 > .container-fluid > .row > .col{
@@ -151,6 +152,7 @@
 	background: initial;
         background-image: url(../img/background.jpg);
 		    background-size: 50%;
+		    background-repeat: no-repeat;
     }
 
 }
@@ -165,6 +167,7 @@
 	background: initial;
         background-image: url(../img/background.jpg);
 		     background-size: 50%;
+		    background-repeat: no-repeat;
 }
 
 
