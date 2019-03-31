@@ -129,6 +129,7 @@
         background: initial;
         background-size: cover;
         background-position: center top;
+	}
     
     .section1 > .container-fluid > .row > .col{
         font-size: 35px !important;
