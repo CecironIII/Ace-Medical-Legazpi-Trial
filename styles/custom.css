@@ -45,7 +45,7 @@
 
 /* Main */
 
-.background {
+.section1 .background {
     background-image: url('../background.jpg');
     background-size: cover;
     background-position: center center;
@@ -125,7 +125,7 @@
         background-color: white !important;
     }
 
-    .background {
+    .section1 .background {
         background: initial;
         background-size: cover;
         background-position: center top;
